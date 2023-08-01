@@ -1,3 +1,4 @@
+#simulate 10 player with synchronous no need to finish that task able to change player will use 3 seconds
 import time
 import asyncio
 

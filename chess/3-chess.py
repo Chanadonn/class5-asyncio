@@ -1,3 +1,5 @@
+# From the asynchronous we simulate that have one oppnents with three movepairs will make totally 12 hour
+# (The total that need to wait player so will use 60 min. per opponent 30 round // (60*30)*24 = 43200 second or 12 hour)
 import time
 
 my_compute_time = 5

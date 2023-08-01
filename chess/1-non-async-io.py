@@ -1,3 +1,4 @@
+#simulate 10 player need 3 seconds of each need to finish that task before change player = 30 seconds
 import time
 
 

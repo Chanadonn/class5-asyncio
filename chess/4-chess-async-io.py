@@ -1,10 +1,12 @@
+# From the synchronous we simulate that have one oppnents with three movepairs will make totally 1 hour
+# (The total that no need to wait player so will use only 5 min. per opponent 30 round // (5*30)*24 = 3600 second or 1 hour)
 import asyncio
 import time
 
 my_compute_time = 5
 opponent_compute_time = 55
-opponents = 24
-move_pairs = 30
+opponents = 1 #24
+move_pairs = 3 #30
 
 
 # Again notice that I declare the main() function as a async function
